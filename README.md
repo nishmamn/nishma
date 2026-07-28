@@ -1,184 +1,41 @@
-[# Hi, I'm Nishma 👋
+# Hi, I'm Nishma 👋
 
-🎓 Master's Student in Computer Science at DePaul University  
-🤖 AI/ML Engineer | Graduate Research Assistant @ PROVE-Lab  
-💡 Interested in Artificial Intelligence, Machine Learning, Generative AI, and Software Engineering  
+🎓 **M.S. Computer Science Student @ DePaul University**  
+🔬 **Graduate Research Assistant @ PROVE-Lab**  
+🤖 **AI/ML Engineer | Machine Learning | Generative AI | Large Language Models**
 
-I am a Computer Science graduate student passionate about building intelligent systems using Machine Learning, Deep Learning, and Large Language Models. Currently, I work as a Graduate Research Assistant exploring LLM-supported mathematical reasoning and AI-driven solutions.
+I am a Computer Science graduate student passionate about Artificial Intelligence, Machine Learning, and building intelligent systems. My interests include Generative AI, Large Language Models, Natural Language Processing, and developing scalable AI applications.
 
-I enjoy developing AI applications, analyzing data, experimenting with machine learning models, and building software solutions that solve real-world problems.
+Currently, I am working as a Graduate Research Assistant at PROVE-Lab, exploring LLM-supported mathematical reasoning and analyzing the capabilities of Large Language Models.
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Pursuing **M.S. in Computer Science** at **DePaul University, Chicago**
-- 🔬 Graduate Research Assistant at **PROVE-Lab**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning, LLMs, and Generative AI**
-- 💻 Experienced with Python-based AI/ML development and software engineering practices
-- ☁️ Interested in Cloud Computing, MLOps, and scalable AI applications
-- 📚 Continuously learning and improving my technical and problem-solving skills
+- 🎓 Pursuing Master's in Computer Science at DePaul University
+- 🔬 Graduate Research Assistant at PROVE-Lab
+- 🤖 Interested in AI/ML, Generative AI, LLMs, and NLP
+- 💻 Building Machine Learning and Software Engineering projects
+- ☁️ Exploring Cloud Computing and AI Engineering
+- 🌱 Continuously learning advanced AI technologies
 
 ---
 
 # 🛠️ Technical Skills
 
-## 🤖 Artificial Intelligence & Machine Learning
-
-**Technologies:**  
-Python · Scikit-learn · PyTorch · TensorFlow · Keras · XGBoost · LightGBM · Pandas · NumPy · SciPy · Matplotlib · Seaborn
-
-**Specialized Areas:**
-- Machine Learning Algorithms
-- Supervised & Unsupervised Learning
-- Classification and Regression
-- Feature Engineering
-- Predictive Modeling
-- Model Training and Evaluation
-- Data Analysis
-
-
----
-
-## 🧠 Deep Learning
-
-**Technologies:**  
-PyTorch · TensorFlow · Keras · Neural Networks · CNNs · RNNs · LSTMs · Transformers
-
-**Specialized Areas:**
-- Deep Neural Networks
-- Representation Learning
-- Transfer Learning
-- Computer Vision
-- Model Optimization
-
-
----
-
-## 🧬 Generative AI & Large Language Models (LLMs)
-
-**Technologies:**  
-Hugging Face Transformers · LangChain · LlamaIndex · OpenAI APIs · Embeddings · Vector Databases
-
-**Specialized Areas:**
-- Large Language Models (LLMs)
-- Prompt Engineering
-- Retrieval Augmented Generation (RAG)
-- Semantic Search
-- AI Applications
-- LLM-based Reasoning
-
-
----
-
-## 📝 Natural Language Processing (NLP)
-
-**Technologies:**  
-BERT · RoBERTa · Hugging Face · spaCy · NLTK · Transformers
-
-**Specialized Areas:**
-- Text Classification
-- Text Processing
-- Named Entity Recognition
-- Text Embeddings
-- Language Understanding
-- Document Analysis
-
-
----
-
-## ⚙️ MLOps & AI Engineering
-
-**Technologies:**  
-FastAPI · Flask · Docker · MLflow · GitHub Actions · Jenkins · Kubernetes
-
-**Specialized Areas:**
-- Machine Learning Model Deployment
-- AI Application Development
-- Model Serving
-- API Development
-- CI/CD Automation
-- Production AI Workflows
-
-
----
-
-## ☁️ Cloud & AI Infrastructure
-
-**Technologies:**  
-Microsoft Azure · AWS · AWS SageMaker · Azure Machine Learning · Amazon S3 · EC2
-
-**Specialized Areas:**
-- Cloud Computing
-- AI Model Deployment
-- Cloud-Based Applications
-- Scalable AI Infrastructure
-
-
----
-
-## 📊 Data Engineering & Analytics
-
-**Technologies:**  
-SQL · Apache Spark · PySpark · ETL Concepts · Data Processing
-
-**Specialized Areas:**
-- Data Cleaning
-- Data Transformation
-- Feature Preparation
-- Data Analysis
-- Data Processing Workflows
-
-
----
-
-## 💻 Software Development
-
-**Programming Languages:**
-
-- Python
-- Java
-- SQL
-- HTML/CSS
-
-**Frameworks:**
-
-- Spring Boot
-- Flask
-- FastAPI
-
-**Tools:**
-
-- Git
-- GitHub
-- Docker
-- Jenkins
-- Maven
-- VS Code
-- PyCharm
-- IntelliJ IDEA
-
-
----
-
-## 🗄️ Databases
-
-**Technologies:**
-
-- MySQL
-- PostgreSQL
-- MongoDB
-- SQL Server
-- FAISS
-- ChromaDB
-
-**Areas:**
-
-- Database Design
-- SQL Query Development
-- Data Management
-- AI Knowledge Retrieval
-
+| Category | Key Technologies | Specialized Areas | Projects |
+|----------|------------------|-------------------|----------|
+| **Artificial Intelligence & Machine Learning** | Python · Scikit-learn · PyTorch · TensorFlow · Keras · XGBoost · LightGBM · Pandas · NumPy | Machine Learning Algorithms, Predictive Modeling, Feature Engineering, Model Training, Data Analysis | • Heart Disease Prediction using ML <br>• Predictive Analytics Applications |
+| **Deep Learning & Neural Networks** | PyTorch · TensorFlow · Keras · CNNs · RNNs · LSTMs · Transformers | Deep Neural Networks, Representation Learning, Transfer Learning, Computer Vision | • Deep Learning Applications <br>• Neural Network Models |
+| **Generative AI & Large Language Models** | Hugging Face Transformers · LangChain · LlamaIndex · OpenAI APIs · Embeddings · Vector Databases | LLM Applications, Prompt Engineering, Retrieval Augmented Generation (RAG), AI Agents, Semantic Search | • LLM-based Applications <br>• AI Research Projects |
+| **Natural Language Processing (NLP)** | BERT · RoBERTa · Hugging Face · spaCy · NLTK · Transformers | Text Classification, Text Processing, Named Entity Recognition, Document Intelligence | • NLP Applications <br>• Text Analysis Projects |
+| **MLOps & AI Engineering** | FastAPI · Flask · Docker · MLflow · GitHub Actions · Jenkins | Model Deployment, AI APIs, ML Lifecycle, Automation, CI/CD Workflows | • ML Deployment Projects <br>• AI Inference APIs |
+| **Data Engineering & Analytics** | SQL · Apache Spark · PySpark · ETL · Data Processing Tools | Data Cleaning, Data Transformation, Feature Preparation, Data Pipelines | • Data Processing Workflows |
+| **Cloud Platforms & AI Infrastructure** | Microsoft Azure · AWS · Amazon S3 · EC2 · Azure Machine Learning | Cloud Computing, AI Deployment, Scalable Infrastructure | • Cloud AI Solutions |
+| **Computer Vision** | OpenCV · PyTorch Vision · TensorFlow Vision · YOLO | Image Processing, Object Detection, Image Classification | • Computer Vision Applications |
+| **Programming Languages & Backend Development** | Python · Java · SQL · Spring Boot · Flask · FastAPI | Software Development, REST APIs, Backend Applications | • Backend Applications <br>• Software Engineering Projects |
+| **Databases & Storage** | MySQL · PostgreSQL · MongoDB · SQL Server · FAISS · ChromaDB | Database Design, Query Development, AI Knowledge Retrieval | • Bug Tracking System <br>• SQL Injection Detection |
+| **DevOps & Development Tools** | Git · GitHub · Docker · Jenkins · Maven · VS Code · IntelliJ IDEA | Version Control, Automation, Software Delivery, Agile Development | • CI/CD Pipeline Automation |
 
 ---
 
@@ -195,29 +52,54 @@ SQL · Apache Spark · PySpark · ETL Concepts · Data Processing
 - Investigating LLM performance on quantifier elimination problems in first-order real arithmetic.
 - Supporting research activities through structured documentation and analysis of experimental outcomes.
 
+---
+
+# 📌 Featured Projects
+
+## 🫀 Heart Disease Prediction using Machine Learning
+Machine learning model to predict heart disease risk using healthcare datasets.
+
+**Technologies:** Python · Pandas · NumPy · Scikit-learn
 
 ---
 
+## 🔐 SQL Injection Detection & Prevention using Machine Learning
+ML-based approach to identify malicious SQL queries and improve database security.
+
+**Technologies:** Python · Machine Learning · SQL
+
+---
+
+## 🐞 Bug Tracking System
+Database-driven application for managing software defects and workflows.
+
+**Technologies:** Java · SQL · Database Design
+
+---
+
+## 🔄 CI/CD Pipeline Automation
+Automated software delivery workflow using DevOps practices.
+
+**Technologies:** GitHub Actions · Jenkins · Docker
+
+---
 
 # 🌱 Currently Learning
 
-- Advanced Machine Learning
 - Large Language Models (LLMs)
 - Retrieval Augmented Generation (RAG)
 - AI Agents
 - MLOps
 - Cloud AI Deployment
-- System Design for AI Applications
-
+- Advanced Machine Learning
 
 ---
 
 # 📊 GitHub Stats
 
-![Nishma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
 
 ---
 
@@ -227,6 +109,4 @@ SQL · Apache Spark · PySpark · ETL Concepts · Data Processing
 
 💼 LinkedIn: your-linkedin-url
 
-
 ⭐ Thanks for visiting my profile!
-](https://github.com/asupraja3)
