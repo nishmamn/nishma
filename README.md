@@ -1,4 +1,4 @@
-# Hi, I'm Nishma 👋
+[# Hi, I'm Nishma 👋
 
 🎓 Master's Student in Computer Science at DePaul University  
 🤖 AI/ML Engineer | Graduate Research Assistant @ PROVE-Lab  
@@ -229,3 +229,4 @@ SQL · Apache Spark · PySpark · ETL Concepts · Data Processing
 
 
 ⭐ Thanks for visiting my profile!
+](https://github.com/asupraja3)
