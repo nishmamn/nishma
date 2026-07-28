@@ -23,7 +23,7 @@ About Me
 
 ---
 
-# 🛠️ Technical Skills
+Technical Skills
 
 | Category | Key Technologies | Specialized Areas | Projects |
 |----------|------------------|-------------------|----------|
