@@ -1,23 +1,23 @@
-# Hi, I'm Nishma 👋
+Hi, I'm Nishma
 
-🎓 **M.S. Computer Science Student @ DePaul University**  
-🔬 **Graduate Research Assistant @ PROVE-Lab**  
-🤖 **AI/ML Engineer | Machine Learning | Generative AI | Large Language Models**
+M.S. Computer Science Student @ DePaul University 
+Graduate Research Assistant @ PROVE-Lab
+AI/ML Engineer | Software Engineer | Machine Learning | Generative AI | Large Language Models 
 
-I am a Computer Science graduate student passionate about Artificial Intelligence, Machine Learning, and building intelligent systems. My interests include Generative AI, Large Language Models, Natural Language Processing, and developing scalable AI applications.
+I am a Computer Science graduate student passionate about Artificial Intelligence, Machine Learning, and building intelligent systems. My interests include Generative AI, Software Solutions, Large Language Models, Natural Language Processing, and developing scalable AI applications.
 
 Currently, I am working as a Graduate Research Assistant at PROVE-Lab, exploring LLM-supported mathematical reasoning and analyzing the capabilities of Large Language Models.
 
 ---
 
-# 🚀 About Me
+About Me
 
-- 🎓 Pursuing Master's in Computer Science at DePaul University
-- 🔬 Graduate Research Assistant at PROVE-Lab
-- 🤖 Interested in AI/ML, Generative AI, LLMs, and NLP
-- 💻 Building Machine Learning and Software Engineering projects
-- ☁️ Exploring Cloud Computing and AI Engineering
-- 🌱 Continuously learning advanced AI technologies
+- Pursuing Master's in Computer Science at DePaul University
+- Graduate Research Assistant at PROVE-Lab
+- Interested in AI/ML, Generative AI, LLMs, and NLP
+- Building Machine Learning and Software Engineering projects
+- Exploring Cloud Computing and AI Engineering
+- Continuously learning advanced AI technologies
 
 ---
 
@@ -39,11 +39,11 @@ Currently, I am working as a Graduate Research Assistant at PROVE-Lab, exploring
 
 ---
 
-# 🔬 Research Experience
+Research Experience
 
-## LLM-Supported Quantifier Elimination for First-Order Real Arithmetic
+LLM-Supported Quantifier Elimination for First-Order Real Arithmetic
 
-**Graduate Research Assistant | PROVE-Lab**
+Graduate Research Assistant | PROVE-Lab
 
 - Exploring the capabilities of Large Language Models (LLMs) for mathematical reasoning tasks.
 - Generating variations of mathematical expressions and problem instances for research analysis.
@@ -54,37 +54,8 @@ Currently, I am working as a Graduate Research Assistant at PROVE-Lab, exploring
 
 ---
 
-# 📌 Featured Projects
 
-## 🫀 Heart Disease Prediction using Machine Learning
-Machine learning model to predict heart disease risk using healthcare datasets.
-
-**Technologies:** Python · Pandas · NumPy · Scikit-learn
-
----
-
-## 🔐 SQL Injection Detection & Prevention using Machine Learning
-ML-based approach to identify malicious SQL queries and improve database security.
-
-**Technologies:** Python · Machine Learning · SQL
-
----
-
-## 🐞 Bug Tracking System
-Database-driven application for managing software defects and workflows.
-
-**Technologies:** Java · SQL · Database Design
-
----
-
-## 🔄 CI/CD Pipeline Automation
-Automated software delivery workflow using DevOps practices.
-
-**Technologies:** GitHub Actions · Jenkins · Docker
-
----
-
-# 🌱 Currently Learning
+Currently Learning
 
 - Large Language Models (LLMs)
 - Retrieval Augmented Generation (RAG)
@@ -95,18 +66,11 @@ Automated software delivery workflow using DevOps practices.
 
 ---
 
-# 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+Connect With Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+Email: nishma23795@gmail.com
 
----
+LinkedIn: linkedin.com/in/nishma-marur-nagendra
 
-# 🤝 Connect With Me
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: your-linkedin-url
-
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile!
