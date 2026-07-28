@@ -1,7 +1,9 @@
 Hi, I'm Nishma
 
 M.S. Computer Science Student @ DePaul University 
+
 Graduate Research Assistant @ PROVE-Lab
+
 AI/ML Engineer | Software Engineer | Machine Learning | Generative AI | Large Language Models 
 
 I am a Computer Science graduate student passionate about Artificial Intelligence, Machine Learning, and building intelligent systems. My interests include Generative AI, Software Solutions, Large Language Models, Natural Language Processing, and developing scalable AI applications.
